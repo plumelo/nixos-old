@@ -67,6 +67,7 @@
     libreoffice-fresh
     python35Packages.mps-youtube
     python35Packages.youtube-dl
+    python27Packages.yamllint
     mpv
     mplayer
     cava
@@ -81,9 +82,14 @@
     unoconv
     atom
     vim_plum
+    vim-vint
+    neovim
+    python27Packages.neovim
+    python36Packages.neovim
     gitAndTools.tig
     gitkraken
     ag
+    ripgrep
     keepassx-community
     skypeforlinux
     taskwarrior
