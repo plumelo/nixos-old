@@ -75,6 +75,7 @@
     atom
     parted
     gptfdisk
+    cryptsetup
     ntfs3g
     tree
     unoconv
